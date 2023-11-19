@@ -1,4 +1,4 @@
-# Fortuna-prawdopodobie-stwo-
+# Fortuna licznik prwdopodobieństwa
 Prawdopodobieństwo wygrania kuponu
 
 1. Zrób kupon na fortunie
