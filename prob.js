@@ -27,7 +27,6 @@ for (var i = 0; i < 1; i++) {
 
         var termin = ((profit-noprofit)/stawka).toFixed(0)
 
-        console.log("szanse jednorazowe: " + procent + "%");
-        console.log("zarobki długoterminowe : " + termin + "%");
+        alert("szanse jednorazowe: " + procent + "% \n  zysk długoterminowy : " + termin + "%");
     }
 }
